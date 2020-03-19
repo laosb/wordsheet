@@ -1,0 +1,7 @@
+node_modules
+words/*.json
+words.txt
+words.*.txt
+output.txt
+output.*.txt
+config.js
